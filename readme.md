@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharma-anshuman&show_icons=true&locale=en&layout=compact" alt="sharma-anshuman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharma-anshuman&" alt="sharma-anshuman" /></p>
+<p><img align="center" style="margin-left: auto; margin-right: auto; text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=sharma-anshuman&" alt="sharma-anshuman" /></p>
