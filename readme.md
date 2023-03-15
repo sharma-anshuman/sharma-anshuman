@@ -33,6 +33,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/anshuman17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anshuman17" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharma-anshuman&show_icons=true&locale=en&layout=compact" alt="sharma-anshuman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharma-anshuman&show_icons=true&locale=en&layout=compact" alt="sharma-anshuman" /></p>
 
-<p><img align="center" style="margin-left: auto; margin-right: auto; text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=sharma-anshuman&" alt="sharma-anshuman" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sharma-anshuman&" alt="sharma-anshuman" /></p>
