@@ -36,6 +36,28 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/anshuman17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anshuman17" /></a></p><br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-anshuman&layout=compact)](https://github.com/sharma-anshuman/github-readme-stats&theme=transparent)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-anshuman&layout=compact)](https://github.com/sharma-anshuman/github-readme-stats&theme=transparent)
 
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharma-anshuman&show_icons=true&theme=transparent)
+![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharma-anshuman&show_icons=true&theme=transparent) -->
+
+ <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
+
+  | Github Stats | Current Strek  |
+| --- | --- |
+| ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharma-anshuman&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharma-anshuman&theme=tokyonight)](https://git.io/streak-stats) |
+
+
+<!-- Theme color -->
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
+
+| Top Languages | Contribution Graph  |
+| :--- | --- |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=sharma-anshuman&show_icons=true&theme=cobalt" alt="Anshuman's Language stats" /> | [![Anshuman's github activity graph](https://activity-graph.herokuapp.com/graph?username=sharma-anshuman&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/sharma-anshuman/github-readme-activity-graph) |
+
+<div aling="left">
+  
+<h2>&nbsp; Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+  </div>
