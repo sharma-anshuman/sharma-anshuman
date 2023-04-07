@@ -51,7 +51,7 @@
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
-| Top Languages | Contribution Graph  |
+| Top Languages |
 | :--- | --- |
 | <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=sharma-anshuman&show_icons=true&theme=cobalt" alt="Anshuman's Language stats" /> |
 
