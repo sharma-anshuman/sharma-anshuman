@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I Love badminton and lifting weights**
 
-![snake gif](https://github.com/sharma-anshuman/sharma-anshuman/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sharma-anshuman/sharma-anshuman/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Connect with me:</h3>
