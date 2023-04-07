@@ -53,7 +53,9 @@
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=sharma-anshuman&show_icons=true&theme=cobalt" alt="Anshuman's Language stats" /> | [![Anshuman's github activity graph](https://activity-graph.herokuapp.com/graph?username=sharma-anshuman&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/sharma-anshuman/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=sharma-anshuman&show_icons=true&theme=cobalt" alt="Anshuman's Language stats" /> |
+
+<!-- [![Anshuman's github activity graph](https://activity-graph.herokuapp.com/graph?username=sharma-anshuman&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/sharma-anshuman/github-readme-activity-graph) | -->
 
 <div aling="left">
   
