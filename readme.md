@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I Love badminton and lifting weights**
 
+![snake gif](https://github.com/sharma-anshuman/sharma-anshuman/blob/output/github-contribution-grid-snake.gif)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/js_anshuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="js_anshuman" height="30" width="40" /></a>
