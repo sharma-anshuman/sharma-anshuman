@@ -20,13 +20,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/js_anshuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="js_anshuman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshuman17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman17" height="30" width="40" /></a>
-<a href="https://instagram.com/itsartisticview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsartisticview" height="30" width="40" /></a>
-<a href="https://hashnode.com/@anshuman17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@anshuman17" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anshuman17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshuman17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anshuzzz8977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshuzzz8977" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anshuman17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshuman17" height="30" width="40" /></a>
+<a href="https://twitter.com/js_anshuman" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" alt="js_anshuman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anshuman17" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="anshuman17" height="30" width="40" /></a>
+<a href="https://instagram.com/itsartisticview" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=32323&format=png" alt="itsartisticview" height="30" width="40" /></a>
+<a href="https://hashnode.com/@anshuman17" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" alt="@anshuman17" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anshuman17" target="blank"><img align="center" src="https://www.svgrepo.com/show/305880/codechef.svg" alt="anshuman17" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anshuzzz8977" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=h5EUmNCXhSH0&format=png" alt="anshuzzz8977" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anshuman17" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="anshuman17" height="30" width="40" /></a>
 <a href="https://discord.gg/anshuman#3802" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="anshuman#3802" height="30" width="40" /></a>
 </p>
 
