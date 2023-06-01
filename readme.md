@@ -27,7 +27,7 @@
 <a href="https://www.codechef.com/users/anshuman17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshuman17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshuzzz8977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshuzzz8977" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anshuman17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshuman17" height="30" width="40" /></a>
-<a href="https://discord.gg/anshuman#3802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anshuman#3802" height="30" width="40" /></a>
+<a href="https://discord.gg/anshuman#3802" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="anshuman#3802" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
