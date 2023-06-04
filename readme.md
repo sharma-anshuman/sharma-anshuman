@@ -36,6 +36,7 @@
  <a rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" alt="react" width="40" height="40"/> </a>
  <a rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="40" height="40"/> </a>
  <a rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=21278&format=png" alt="css3" width="40" height="40"/> </a>
+ <a rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=84710&format=png" alt="bootstrap" width="40" height="40"/> </a>
  <a rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=54087&format=png" alt="nodejs" width="40" height="40"/> </a>
  <a rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=74402&format=png" alt="mongodb" width="40" height="40"/> </a>
  <a rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=62452&format=png" alt="firebase" width="40" height="40"/> </a>
