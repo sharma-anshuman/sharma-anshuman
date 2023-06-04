@@ -23,7 +23,7 @@
 <a href="https://twitter.com/js_anshuman" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" alt="js_anshuman" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/anshuman17" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="anshuman17" height="40" width="40" /></a>
 <a href="https://instagram.com/itsartisticview" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=32323&format=png" alt="itsartisticview" height="40" width="40" /></a>
-<a href="https://hashnode.com/@anshuman17" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" alt="@anshuman17" height="40" width="40" /></a>
+<a href="https://anshuman17.hashnode.dev/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" alt="@anshuman17" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/anshuman17" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=LnZMjt9rZC3d&format=png" alt="anshuman17" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/anshuzzz8977" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=h5EUmNCXhSH0&format=png" alt="anshuzzz8977" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/anshuman17" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="anshuman17" height="40" width="40" /></a>
